@@ -1,0 +1,5 @@
+1 Chemise_ete Rouge Polo 12000 9
+2 Jeans Bleue Levis 29000 3
+3 Lunette_de_Soleil Grise Gucci 5000 7
+4 Serviette_XXL Blanche Adidas 8000 1
+5 Basket_coupe Nike Noire 25000 15

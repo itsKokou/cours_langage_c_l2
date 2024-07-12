@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1673212765 source:c:\users\winny\desktop\projet  c\gestionvente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<stdbool.h>
+	"global.h"
+	"facture.h"
+	"fichier.h"
+	"dateHeure.h"
+	"apport.h"
+	"etatCaisse.h"
+	"panierVente.h"
+	"afficherV.h"
+	"utilisateurs.h"
+	"articles.h"
+	"global.h"
+
+1667855028 source:c:\users\winny\desktop\projet  c\gestionvente\apport.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"global.h"
+
+1667410802 c:\users\winny\desktop\projet  c\gestionvente\global.h
+
+1667760869 source:c:\users\winny\desktop\projet  c\gestionvente\dateheure.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"global.h"
+
+1668881565 source:c:\users\winny\desktop\projet  c\gestionvente\etatcaisse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"global.h"
+
+1669105927 source:c:\users\winny\desktop\projet  c\gestionvente\afficherv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+
+1667120046 source:c:\users\winny\desktop\projet  c\gestionvente\facture.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"global.h"
+
+1667118998 source:c:\users\winny\desktop\projet  c\gestionvente\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"global.h"
+
+1673271948 source:c:\users\winny\desktop\projet  c\gestionvente\paniervente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<stdbool.h>
+	"global.h"
+
+1666943554 c:\users\winny\desktop\projet  c\gestionvente\facture.h
+
+1669058619 c:\users\winny\desktop\projet  c\gestionvente\fichier.h
+
+1666943273 c:\users\winny\desktop\projet  c\gestionvente\dateheure.h
+
+1667854957 c:\users\winny\desktop\projet  c\gestionvente\apport.h
+
+1667411340 c:\users\winny\desktop\projet  c\gestionvente\etatcaisse.h
+
+1673213928 c:\users\winny\desktop\projet  c\gestionvente\paniervente.h
+
+1669105927 c:\users\winny\desktop\projet  c\gestionvente\afficherv.h
+
+1673191616 c:\users\winny\desktop\projet  c\gestionvente\utilisateurs.h
+
+1673211114 source:c:\users\winny\desktop\projet  c\gestionvente\utilisateurs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<stdbool.h>
+	"global.h"
+
+1673211109 source:c:\users\winny\desktop\projet  c\gestionvente\articles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+
+1667857864 c:\users\winny\desktop\projet  c\gestionvente\articles.h
+

@@ -1,0 +1,14 @@
+1 Chemise_ete Burberry Blanche 45000 24
+2 Short_Plage Polo bleue 1500 11
+3 Lunette_de_soleil Cartier Noire 20000 36
+4 Chemise_ete Polo Rouge 12000 15
+5 Jeans Levis Bleue 29000 19
+6 Lunette_de_Soleil Gucci Grise 5000 12
+7 Serviette_XXL Adidas Blanche 8000 21
+8 Basket_coupe Nike Noire 25000 18
+9 T-shirt LV Noire 12000 52
+10 Jordan Nike Rouge 25000 23
+11 Air_Max Nike Blanche 18000 17
+12 Jogging adidas Grise 7000 16
+13 Jogging Nike Bleue 8000 23
+14 Casquette Gucci Noire 8000 21

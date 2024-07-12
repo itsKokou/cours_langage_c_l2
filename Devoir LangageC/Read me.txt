@@ -1,0 +1,49 @@
+EXERCICE 1:
+Creer un programme en C pemettant de lire (afficher) les donnees du fichier "personne.txt" sashant que la structure d'un etudiant est :
+ETUDIANT:
+    -> matricule (chaine de 20 caracteres)
+    -> nom (chaine de 20 caracteres)
+    -> prenom (chaine de 30 caracteres)
+    -> dateNaiss (chaine de 11 caracteres)
+    -> ville (chaine de 20 caracteres)
+    -> tel (chaine de 10 caracteres)
+    -> email (chaine de 50 caracteres)
+    -> moyenne (reel)
+NB: 
+Vous devez adopter l'affichage de la capture se trouvant dans le dossier
+------------------------------------------------------------------
+EXERCICE 2:
+Ecrire les sous programme necessaires pour :
+- Ajouter tous les etudiants dans un fichier
+- Afficher la liste
+NB : Voir le fichier "exo2Devoir.c"
+
+
+EXERCICE 3:
+La gestion des produits. Un produit est caracterise par : id (auto increment), son libelle, son prix, sa quantite et sa date de fabrication (jou, mois et annee)
+Ecrire les sous programme suivants :
+- un sous programme qui prend en parametre le nom d'un fichier (exemple: toto.txt) puis creer le fichier :
+void creerFichier(char[]);
+
+- Un sous programme qui prend en parametre le nom d'un fichier et un produit pour ajouter dans le fichier :
+void ajoutProduit(char[],PRODUIT);
+
+- Un sous programme qui prend en parametre le nom du fichier et un entier N pour afficher les N premiers produits du fichier :
+void afficher(char[], int);
+
+
+INSTRUCTION : 
+
+- TOUTES VOS VARIABLE ET/OU CONSTANTES DOIVENT SE NOMMER AVEC LE FORMAT SUIVANT : nomVariable_votrePrenom.
+Exemple : 
+Int x_aly, y_aly;
+Char libelle_aly;
+
+- Vous devez mettre tout vos fichier dans le même dossier, compresser le dossier et le nommé : votreNom_votrePrenom
+
+- Encvoyer votre dossier compressé sur ce lien avant minuit :
+https://www.dropbox.com/request/n6aRhpS7i9hV5Ar5tRyM
+
+BONNE CHANCE.
+
+
